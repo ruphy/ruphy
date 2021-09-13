@@ -3,7 +3,10 @@
 
 <div align="center" >
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=ruphy&theme=flat&margin-w=20&no-frame=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruphy&show_icons=true" />
+  
 </div>
+
 
 <!--
 **ruphy/ruphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
