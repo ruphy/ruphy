@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+<div align="center" >
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ruphy&theme=flat&margin-w=20&no-frame=true" />
+</div>
+
 <!--
 **ruphy/ruphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
